@@ -12,6 +12,5 @@ I've also developed simple apps on Python using Tkinter and CustomTkinter.
 ## MY STATS
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=gonabur&theme=gotham&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonabur&theme=gotham&layout=compact" />
 </p>
